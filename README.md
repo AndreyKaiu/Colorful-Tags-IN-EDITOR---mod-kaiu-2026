@@ -15,7 +15,7 @@ When you click on multiple tags while holding down the Shift (or Ctrl) key, the 
 
 **Please do not use reviews for bug reports or support requests.**<br>
 **And be sure to like,** as your support is always needed. Thank you.
-I don't get notified of your reviews, and properly troubleshooting an issue through them is nearly impossible. Instead, please either use the [issue tracker (preferred),](https://github.com/AndreyKaiu/Colorful-Tags-IN-EDITOR---mod-kaiu-2026/issues) add-on [support forums](https://forums.ankiweb.net), or just message me at [andreykaiu@gmail.com.](mailto:andreykaiu@gmail.com) Constructive feedback and suggestions are always welcome!
+I don't get notified of your reviews, and properly troubleshooting an issue through them is nearly impossible. Instead, please either use the [issue tracker (preferred),](https://github.com/AndreyKaiu/Colorful-Tags-IN-EDITOR---mod-kaiu-2026/issues) add-on [support forums]([https://forums.ankiweb.net](https://forums.ankiweb.net/t/colorful-tags-in-editor-mod-kaiu-2026-official-support/74288)), or just message me at [andreykaiu@gmail.com.](mailto:andreykaiu@gmail.com) Constructive feedback and suggestions are always welcome!
 
 **VERSIONS**
 
