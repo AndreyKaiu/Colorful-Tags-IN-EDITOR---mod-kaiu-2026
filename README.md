@@ -12,6 +12,7 @@ When you click on multiple tags while holding down the Shift (or Ctrl) key, the 
 <img width="735" height="864" alt="image" src="https://github.com/user-attachments/assets/baf8b0d7-d054-4f37-8d03-07c0b8fa53ec" />
 
 **HELP AND SUPPORT**
+
 **Please do not use reviews for bug reports or support requests.**<br>
 **And be sure to like,** as your support is always needed. Thank you.
 I don't get notified of your reviews, and properly troubleshooting an issue through them is nearly impossible. Instead, please either use the [issue tracker (preferred),](https://github.com/AndreyKaiu/Colorful-Tags-IN-EDITOR---mod-kaiu-2026/issues) add-on [support forums](https://forums.ankiweb.net), or just message me at [andreykaiu@gmail.com.](mailto:andreykaiu@gmail.com) Constructive feedback and suggestions are always welcome!
