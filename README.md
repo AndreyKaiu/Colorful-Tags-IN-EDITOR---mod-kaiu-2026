@@ -1,6 +1,6 @@
 Minor improvements to the add-on: [https://ankiweb.net/shared/info/1302882059](https://ankiweb.net/shared/info/1302882059)
 I don’t know who the original author is, but this add-on is a modified version of "Colorful Tags (+ Hierarchical Tags)" [https://ankiweb.net/shared/info/594329229](https://ankiweb.net/shared/info/594329229). While that add-on lists its authors, it hasn’t been updated in a long time. Recently, users requested the following additions:
-- This is great! Can you add the ability to change the colors of multiple tags at once?!
+- Can you add the ability to change the colors of multiple tags at once?!
 - It would be really great if setting a tag's color also changed the color of its icon!
 
 This is how the tags will look—highlighted in color and in bold; a pinned tag is shown at the top.
